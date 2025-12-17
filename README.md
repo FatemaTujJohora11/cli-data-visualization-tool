@@ -18,7 +18,7 @@ pip install pandas
 1. Open a terminal or PowerShell window.
 2. Navigate to the folder containing the Python file.
 3. Run:
-python milestone_4.py
+python main.py
 4. When prompted, enter a CSV or JSON filename:
 Enter file name (data.csv or data.json):
 
